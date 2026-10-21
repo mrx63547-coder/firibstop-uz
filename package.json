@@ -1,0 +1,12 @@
+{
+  "name": "firibstop-uz-secure",
+  "version": "1.0.0",
+  "private": true,
+  "description": "FiribStop UZ with URL reputation proxy and optional Supabase cloud sync",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
